@@ -1,8 +1,8 @@
 /*************************************************************************
 	> File Name: conSer.cpp
-	> Author: qinyu
-	> Mail: qinyu.LT@gmail.com 
-	> Created Time: 2016年04月20日 星期三 22时38分48秒
+	> Author: wangyu
+	> Mail: wangyucoder@163.com 
+	> Created Time: 2016年07月20日 星期三 22时38分48秒
  ************************************************************************/
 #include "MCache.h"
 #include "conSer.h"
