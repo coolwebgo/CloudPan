@@ -1,8 +1,8 @@
 /*************************************************************************
 	> File Name: fileTrans.cpp
-	> Author: qinyu
-	> Mail: qinyu.LT@gmail.com 
-	> Created Time: 2016年04月22日 星期五 12时55分04秒
+	> Author: wangyu
+	> Mail: wangyucoder@163.com 
+	> Created Time: 2016年07月22日 星期五 12时55分04秒
  ************************************************************************/
 
 #include "md5.h"
