@@ -1,8 +1,8 @@
 /*************************************************************************
 	> File Name: xcp.c
-	> Author: qinyu
-	> Mail: qinyu.LT@gmail.com 
-	> Created Time: 2016年06月12日 星期日 16时26分56秒
+	> Author: wangyu
+	> Mail: wangyucoder@163.com 
+	> Created Time: 2017年07月12日 星期日 16时26分56秒
  ************************************************************************/
 
 #include <stdio.h>
