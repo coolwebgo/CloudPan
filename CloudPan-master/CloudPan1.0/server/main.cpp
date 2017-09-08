@@ -1,8 +1,8 @@
 /*************************************************************************
 	> File Name: main.cpp
-	> Author: qinyu
-	> Mail: qinyu.LT@gmail.com 
-	> Created Time: 2016年04月19日 星期二 22时59分09秒
+	> Author: wangyu
+	> Mail: wangyucoder@163.com 
+	> Created Time: 2016年07月19日 星期二 22时59分09秒
  ************************************************************************/
 //#include "conSer.h"
 //#include "conCli.h"
@@ -16,9 +16,9 @@ using namespace std;
 int main()
 {
     MCache mem("127.0.0.1",11211);
-    mem.insertValue("qinyu","123123",180);
-    cout<<mem.getValue("qinyu")<<endl;
-    mem.deleteKey("qinyu");
+    mem.insertValue("wangyu","123123",180);
+    cout<<mem.getValue("wangyu")<<endl;
+    mem.deleteKey("wangyu");
 
     /*
     if(createPool(4) != 0)
@@ -39,7 +39,7 @@ int main()
 /*
     MyDB db;
     db.initDB("localhost","root","qinyu","FTP");
-    string userid="qinyu";
+    string userid="wangyu";
     string password="222222";
     //string sqlExec="select *from user";
     string sqlExec="insert into user(user_id,password) select '"+userid+"','"+password+"' from dual where not exists(select *from user where user.user_id='"+userid+"')";        
