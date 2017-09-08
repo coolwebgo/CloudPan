@@ -1,8 +1,8 @@
 /*************************************************************************
 	> File Name: testser.cpp
-	> Author: qinyu
-	> Mail: qinyu.LT@gmail.com 
-	> Created Time: 2016年04月19日 星期二 23时11分23秒
+	> Author: wangyu
+	> Mail: wangyucoder@163.com 
+	> Created Time: 2017年077月19日 星期二 23时11分23秒
  ************************************************************************/
 #include "conSer.h"
 #include "MyDB.h"
