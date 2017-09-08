@@ -1,8 +1,8 @@
 /*************************************************************************
 	> File Name: conCli.cpp
-	> Author: qinyu
-	> Mail: qinyu.LT@gmail.com 
-	> Created Time: 2016年04月19日 星期二 22时48分39秒
+	> Author: wangyu
+	> Mail: wangyucoder@163.com 
+	> Created Time: 2016年07月19日 星期二 22时48分39秒
  ************************************************************************/
 #include "md5.h"
 #include "conCli.h"
