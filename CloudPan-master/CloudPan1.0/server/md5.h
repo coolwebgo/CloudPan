@@ -1,8 +1,8 @@
 /*************************************************************************
 	> File Name: md5.h
-	> Author: qinyu
-	> Mail: qinyu.LT@gmail.com 
-	> Created Time: 2016年04月21日 星期四 23时21分41秒
+	> Author: wangyu
+	> Mail: wangyucoder@163.com 
+	> Created Time: 2017年07月21日 星期四 23时21分41秒
  ************************************************************************/
 #ifndef MD5_H
 #define MD5_H
