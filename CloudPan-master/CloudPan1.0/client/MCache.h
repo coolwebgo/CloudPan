@@ -1,8 +1,8 @@
 /*************************************************************************
 	> File Name: MCache.h
-	> Author: qinyu
-	> Mail: qinyu.LT@gmail.com 
-	> Created Time: 2016年05月19日 星期四 20时12分57秒
+	> Author: wangyu
+	> Mail: wangyucoder@163.com 
+	> Created Time: 2016年07月19日 星期四 20时12分57秒
  ************************************************************************/
 #ifndef _MCACHED_H
 #define _MCACHED_H
