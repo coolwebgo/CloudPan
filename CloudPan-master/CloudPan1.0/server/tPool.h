@@ -1,8 +1,8 @@
 /*************************************************************************
 	> File Name: tPool.h
-	> Author: qinyu
-	> Mail: qinyu.LT@gmail.com 
-	> Created Time: 2016年04月24日 星期日 16时53分08秒
+	> Author: wangyu
+	> Mail: wangyucoder@163.com 
+	> Created Time: 2017年07月24日 星期日 16时53分08秒
  ************************************************************************/
 #ifndef THREAD_POOL_H
 #define THREAD_POOL_H
