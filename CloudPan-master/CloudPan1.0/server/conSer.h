@@ -1,8 +1,8 @@
 /*************************************************************************
 	> File Name: conSer.h
-	> Author: qinyu
-	> Mail: qinyu.LT@gmail.com 
-	> Created Time: 2016年04月19日 星期二 22时51分03秒
+	> Author: wangyu
+	> Mail: wangyucoder@163.com 
+	> Created Time: 2016年07月19日 星期二 22时51分03秒
  ************************************************************************/
 
 #ifndef CONSER_H
