@@ -1,8 +1,8 @@
 /*************************************************************************
 	> File Name: MyDB.cpp
-	> Author: qinyu
-	> Mail: qinyu.LT@gmail.com 
-	> Created Time: 2016年04月19日 星期二 22时57分44秒
+	> Author: wangyu
+	> Mail: wangyucoder@163.com 
+	> Created Time: 2017年07月19日 星期二 22时57分44秒
  ************************************************************************/
 
 #include "MyDB.h"
