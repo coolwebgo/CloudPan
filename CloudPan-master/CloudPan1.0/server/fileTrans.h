@@ -1,8 +1,8 @@
 /*************************************************************************
 	> File Name: fileTrans.h
-	> Author: qinyu
-	> Mail: qinyu.LT@gmail.com 
-	> Created Time: 2016年04月21日 星期三 12时54分19秒
+	> Author: wangyu
+	> Mail: wangyucoder@163.com 
+	> Created Time: 2016年07月21日 星期三 12时54分19秒
  ************************************************************************/
 
 #ifndef _FILETRANS_H
