@@ -1,8 +1,8 @@
 /*************************************************************************
 	> File Name: public.h
-	> Author: qinyu
-	> Mail: qinyu.LT@gmail.com 
-	> Created Time: 2016年04月19日 星期二 22时30分55秒
+	> Author: wangyu
+	> Mail: wangyucoder@163.com 
+	> Created Time: 2017年07月19日 星期二 22时30分55秒
  ************************************************************************/
 #ifndef _PUBLIC_H
 #define _PUBLIC_H
