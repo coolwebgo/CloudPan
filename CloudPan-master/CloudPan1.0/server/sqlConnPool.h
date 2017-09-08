@@ -1,8 +1,8 @@
 /*************************************************************************
 	> File Name: sql_conn_pool.h
-	> Author: qinyu
-	> Mail: qinyu.LT@gmail.com 
-	> Created Time: 2016年04月23日 星期六 15时02分26秒
+	> Author: wangyu
+	> Mail: wangyucoder@163.com 
+	> Created Time: 2017年07月23日 星期六 15时02分26秒
  ************************************************************************/
 #ifndef CONN_POOL_H
 #define CONN_POOL_H
