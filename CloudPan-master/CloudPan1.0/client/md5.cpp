@@ -1,8 +1,8 @@
 /*************************************************************************
 	> File Name: md5.cpp
-	> Author: qinyu
-	> Mail: qinyu.LT@gmail.com 
-	> Created Time: 2016年04月21日 星期四 23时21分59秒
+	> Author: wangyu
+	> Mail: wangyucoder@163.com 
+	> Created Time: 2017年07月21日 星期四 23时21分59秒
  ************************************************************************/
 #include "md5.h"
 #include "../public.h"
