@@ -1,8 +1,8 @@
 /*************************************************************************
 	> File Name: tPool.cpp
-	> Author: qinyu
-	> Mail: qinyu.LT@gmail.com 
-	> Created Time: 2016年04月24日 星期日 17时10分01秒
+	> Author: wangyu
+	> Mail: wangyucoder@163.com 
+	> Created Time: 2017年07月24日 星期日 17时10分01秒
  ************************************************************************/
 #include "tPool.h"
 #include <unistd.h>
